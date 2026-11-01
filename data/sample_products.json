@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Dining Chair Protectors",
+    "price": 29.99,
+    "manufacturing_cost": 6.00,
+    "shipping_cost": 2.00,
+    "amazon_fees": 9.00,
+    "estimated_monthly_sales": 300
+  },
+  {
+    "name": "Drawer Organizers",
+    "price": 24.99,
+    "manufacturing_cost": 5.00,
+    "shipping_cost": 1.50,
+    "amazon_fees": 7.50,
+    "estimated_monthly_sales": 450
+  },
+  {
+    "name": "Kitchen Storage Containers",
+    "price": 34.99,
+    "manufacturing_cost": 10.00,
+    "shipping_cost": 3.00,
+    "amazon_fees": 10.50,
+    "estimated_monthly_sales": 200
+  },
+  {
+    "name": "Sink Accessories",
+    "price": 19.99,
+    "manufacturing_cost": 4.50,
+    "shipping_cost": 1.50,
+    "amazon_fees": 6.00,
+    "estimated_monthly_sales": 500
+  },
+  {
+    "name": "Silicone Baking Mats",
+    "price": 21.99,
+    "manufacturing_cost": 5.00,
+    "shipping_cost": 1.00,
+    "amazon_fees": 7.00,
+    "estimated_monthly_sales": 350
+  }
+]
