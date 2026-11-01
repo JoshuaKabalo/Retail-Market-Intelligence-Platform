@@ -12,3 +12,7 @@ venv/
 *.tfstate.*
 *.tfvars
 *.tfvars.json
+
+# Generated AWS Lambda artifacts
+lambda_package.zip
+response.json
